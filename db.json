@@ -1,0 +1,13 @@
+{
+    "come": {
+        "code": "200",
+        "Success": "ok",
+        "gameBody": {
+            "url": "",
+            "ver": "1",
+            "Name": "1.0.0",
+            "game": "yes",
+            "online": "yes"
+        }
+    }
+}
